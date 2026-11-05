@@ -1,0 +1,32 @@
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.netrc
+.supabase/
+supabase/.temp/
+# Dados, exportações e cópias locais
+backups/
+exports/
+dumps/
+*.sql
+*.sqlite*
+*.db
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.zip
+*.log
+*.bak
+# Dependências, ferramentas e sistema
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
