@@ -65,7 +65,7 @@ O GitHub Pages hospeda a versão pública do painel. No ambiente original, o Sup
 
 ## Como testar
 
-1. Abra a [demonstração do PCP](https://carlosh088.github.io/portfolio/pcp-portifolio/).
+1. Abra a [demonstração do PCP](https://carlosh088.github.io/Sistema_PCP/).
 2. Clique em **+ Nova Produção**.
 3. Use o código fictício `DEMO-001` para consultar um produto.
 4. Informe o **peso total do produto**, escolha o turno e selecione a máquina.
