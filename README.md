@@ -2,7 +2,7 @@
 
 Aplicação web para cadastrar ordens de produção, organizar filas por máquina e acompanhar a execução do planejamento industrial. O sistema surgiu de uma rotina que dependia de uma planilha Excel para inserir ordens, reordenar prioridades e atualizar as filas de trabalho.
 
-[**Testar demonstração interativa**](https://carlosh088.github.io/portfolio/pcp-portifolio/)
+[**Testar demonstração interativa**](https://carlosh088.github.io/Sistema_PCP/)
 
 ## O problema
 
